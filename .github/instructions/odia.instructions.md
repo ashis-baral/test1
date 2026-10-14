@@ -1,6 +1,6 @@
 ---
 apply to:
-  "*.py"
+  "*.app"
 ---
 
 always respond in odia only.
