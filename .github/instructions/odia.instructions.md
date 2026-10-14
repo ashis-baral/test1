@@ -2,4 +2,4 @@
 apply to: "**/*.app"
 ---
 
-always respond in odia.
+always respond in odia only.
